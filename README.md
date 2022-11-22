@@ -1,4 +1,4 @@
-👋 Hi, I’m @TetsuDev.
+👋 Hi, I’m @Tetsu.
 
 👀 I’m interested in 3D Modelling, Lua Programming, Mapping. (MTA)
 
